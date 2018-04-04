@@ -1,11 +1,12 @@
 Spring MVC Embedded Jetty Example
 =================================
 
-Basic Spring MVC 4 application using embedded Jetty 9 server. No-xml configuration.
+Minimalistic Spring MVC 4 application using embedded Jetty 9 server. 
+No-xml configuration.
 
-Includes API REST service, Freemarker and JSP examples.
+Includes simple API REST service.
 
-Integration with Mongo DB.
+Based on work from [spring-jetty-example](https://github.com/fernandospr/spring-jetty-example)
 
 
 Requirements
